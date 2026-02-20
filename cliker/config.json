@@ -1,0 +1,6 @@
+{
+  "button": "left",
+  "interval": "100",
+  "hotkey": "F7",
+  "stop_hotkey": "F8"
+}
